@@ -19,7 +19,7 @@ Simular una red de datos utilizando la herramienta ns-3 para observar y analizar
 - Comparación de distintos algoritmos de control de congestión de TCP (Reno, Cubic, etc.) en la misma simulación.
 - Impacto en la calidad de servicio (QoS) para los usuarios finales.
 
-## Requisitos
+## Entregables
 - Utilizar ns-3 para configurar la red y generar los escenarios de congestión.
 - Implementar diferentes variantes del protocolo TCP y capturar métricas como la tasa de pérdida de paquetes, tiempo de respuesta y throughput.
 - Analizar los resultados mediante gráficos que evidencien el comportamiento de TCP en diferentes situaciones de congestión.
